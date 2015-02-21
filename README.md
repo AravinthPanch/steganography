@@ -24,4 +24,15 @@ PLATFORM
 
 USAGE
 --------------------------------------
+###Sender
+- Select an image
+- Give your message
+- Give your password
+- Encode and send it to the receiver
+
+###Receiver:
+- Import the image
+- Enter the password that was used by the sender
+- Decode the message
+
 ![APP](./application.jpg "Application")
